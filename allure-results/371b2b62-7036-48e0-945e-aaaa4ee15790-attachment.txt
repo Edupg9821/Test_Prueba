@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@id=\"cart_summary\"]/tfoot/tr[5]/td[1]"
+}

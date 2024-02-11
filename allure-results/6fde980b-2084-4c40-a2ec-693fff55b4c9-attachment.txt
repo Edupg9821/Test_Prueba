@@ -1,0 +1,13 @@
+{
+  "script": "return ((elem, options) => elem.scrollIntoView(options)).apply(null, arguments)",
+  "args": [
+    {
+      "element-6066-11e4-a52e-4f735466cecf": "76F46FE65CB87D3F5A8481B608156265_element_154",
+      "ELEMENT": "76F46FE65CB87D3F5A8481B608156265_element_154"
+    },
+    {
+      "block": "start",
+      "inline": "nearest"
+    }
+  ]
+}

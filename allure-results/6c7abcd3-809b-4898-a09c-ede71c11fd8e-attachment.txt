@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@id=\"HOOK_PAYMENT\"]/div[1]/div/p/a"
+}
